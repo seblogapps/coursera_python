@@ -15,8 +15,8 @@ You can just copy/paste the full raw code on the left windows of CodeSkulptor an
 Some code is directly compatible with Python 2.7, some other no (because it uses proprietary GUI libraries from Coursera that works only in CodeSkulptor)
 
 More information is available in the course sillabus at:
-https://www.coursera.org/learn/interactive-python-1
-and
+https://www.coursera.org/learn/interactive-python-1 \n
+and \n
 https://www.coursera.org/learn/interactive-python-2
 
 Disclaimer: As per the Coursera code conduct policies you're not allowed to use my solutions for your assignments.
