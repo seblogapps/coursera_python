@@ -1,4 +1,4 @@
-# StopWatch the game
+# "StopWatch the game" mini-project
 # Sebastiano Tognacci
  
 import simplegui

@@ -1,4 +1,4 @@
-# Implementation of classic arcade game Pong
+# "Pong" mini-project
 # Sebastiano Tognacci 
 
 import simplegui
