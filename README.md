@@ -2,7 +2,7 @@
 from Rice University
 # Fundamentals of Computing Specialization
 # 
-Part 1 - Assignment source code
+Part 1 and Part 2 Assignment source code
 
 My solutions to the assignments used in IIPP course on Coursera platform (http://www.coursera.com)
 
@@ -15,8 +15,8 @@ You can just copy/paste the full raw code on the left windows of CodeSkulptor an
 Some code is directly compatible with Python 2.7, some other no (because it uses proprietary GUI libraries from Coursera that works only in CodeSkulptor)
 
 More information is available in the course sillabus at:
-https://www.coursera.org/learn/interactive-python-1 \n
-and \n
+https://www.coursera.org/learn/interactive-python-1
+and
 https://www.coursera.org/learn/interactive-python-2
 
 Disclaimer: As per the Coursera code conduct policies you're not allowed to use my solutions for your assignments.
