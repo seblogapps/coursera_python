@@ -1,8 +1,8 @@
 # An Introduction to Interactive Programming in Python (Part 1)
-# from Rice University
+from Rice University
 # Fundamentals of Computing Specialization
 # 
-# Part 1 - Assignment source code
+Part 1 - Assignment source code
 
 My solutions to the assignments used in IIPP course on Coursera platform (http://www.coursera.com)
 
