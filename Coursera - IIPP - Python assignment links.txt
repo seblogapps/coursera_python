@@ -1,0 +1,71 @@
+An Introduction to Interactive Programming in Python (Part 1)
+
+Rock-paper-scissors-lizard-Spock Source code:
+http://www.codeskulptor.org/#user40_Sz0KspOYd4_6.py
+
+Guess the number Source code:
+http://www.codeskulptor.org/#user40_sO0xVGwwlF4fJav.py
+http://www.codeskulptor.org/#user40_sO0xVGwwlF4fJav_4.py
+http://www.codeskulptor.org/#user40_UJE2okzeiZ_3.py
+http://www.codeskulptor.org/#user40_UJE2okzeiZ_4.py
+http://www.codeskulptor.org/#user40_UJE2okzeiZ_7.py
+
+StopWatch the game Source Code:
+http://www.codeskulptor.org/#user40_33JJoAYCXI_0.py
+http://www.codeskulptor.org/#user40_33JJoAYCXI_5.py
+http://www.codeskulptor.org/#user40_33JJoAYCXI_7.py
+http://www.codeskulptor.org/#user40_33JJoAYCXI_10.py
+http://www.codeskulptor.org/#user40_33JJoAYCXI_11.py
+http://www.codeskulptor.org/#user40_33JJoAYCXI_13.py
+Format helper function:
+http://www.codeskulptor.org/#user40_Jb2d1SfA9H_0.py
+http://www.codeskulptor.org/#user40_Jb2d1SfA9H_1.py
+http://www.codeskulptor.org/#user40_3MEuOwBqWS_1.py
+
+Pong Game - Week 4:
+http://www.codeskulptor.org/#user40_QoFUybNPRn_0.py
+http://www.codeskulptor.org/#user40_QoFUybNPRn_1.py
+http://www.codeskulptor.org/#user40_QoFUybNPRn_3.py
+http://www.codeskulptor.org/#user40_QoFUybNPRn_5.py
+http://www.codeskulptor.org/#user40_QoFUybNPRn_6.py
+http://www.codeskulptor.org/#user40_QoFUybNPRn_11.py
+http://www.codeskulptor.org/#user40_QoFUybNPRn_17.py
+
+An Introduction to Interactive Programming in Python (Part 2)
+
+Memory Game - Week 1:
+http://www.codeskulptor.org/#user40_XbjX0Srfwn_0.py
+http://www.codeskulptor.org/#user40_XbjX0Srfwn_1.py
+http://www.codeskulptor.org/#user40_XbjX0Srfwn_2.py
+http://www.codeskulptor.org/#user40_XbjX0Srfwn_3.py
+http://www.codeskulptor.org/#user40_XbjX0Srfwn_4.py
+http://www.codeskulptor.org/#user40_XbjX0Srfwn_5.py
+http://www.codeskulptor.org/#user40_XbjX0Srfwn_6.py
+http://www.codeskulptor.org/#user40_XbjX0Srfwn_11.py
+http://www.codeskulptor.org/#user40_XbjX0Srfwn_13.py
+http://www.codeskulptor.org/#user40_XbjX0Srfwn_14.py
+
+Week 6 BlackJack:
+http://www.codeskulptor.org/#user40_0uCa0dmdmB_0.py  - Hand class testing template: http://www.codeskulptor.org/#user40_x35cvjLUBZ_0.py
+http://www.codeskulptor.org/#user40_0uCa0dmdmB_1.py  - Deck class testing template: http://www.codeskulptor.org/#user40_SQfE1IqXPR_0.py
+http://www.codeskulptor.org/#user40_0uCa0dmdmB_2.py  - Get_value method testing t:  http://www.codeskulptor.org/#user40_SxPjhPLrBG_0.py
+http://www.codeskulptor.org/#user40_0uCa0dmdmB_4.py
+http://www.codeskulptor.org/#user40_0uCa0dmdmB_6.py
+http://www.codeskulptor.org/#user40_0uCa0dmdmB_8.py
+http://www.codeskulptor.org/#user40_0uCa0dmdmB_9.py
+http://www.codeskulptor.org/#user40_0uCa0dmdmB_14.py
+http://www.codeskulptor.org/#user40_0uCa0dmdmB_16.py
+
+Week 7 SpaceShip:
+http://www.codeskulptor.org/#user40_jnWWs8HFTz_1.py
+http://www.codeskulptor.org/#user40_jnWWs8HFTz_2.py
+http://www.codeskulptor.org/#user40_jnWWs8HFTz_3.py
+http://www.codeskulptor.org/#user40_jnWWs8HFTz_4.py
+http://www.codeskulptor.org/#user40_jnWWs8HFTz_6.py - Arrivato punto phase 2 - 2
+http://www.codeskulptor.org/#user40_jnWWs8HFTz_12.py
+http://www.codeskulptor.org/#user40_jnWWs8HFTz_13.py
+
+Week 8 RiceRocks (final project):
+http://www.codeskulptor.org/#user40_GsnpxbcdD53Q94R_16.py
+
+
